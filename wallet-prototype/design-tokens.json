@@ -1,0 +1,38 @@
+{
+  "$schema": "https://design-tokens.github.io/community-group/format/",
+  "name": "NUUR Wallet — Midnight Gold",
+  "color": {
+    "midnightNavy": { "$value": "#101827", "$type": "color" },
+    "secondaryNavy": { "$value": "#1D2A3A", "$type": "color" },
+    "premiumGold": { "$value": "#EFCB64", "$type": "color" },
+    "emerald": { "$value": "#20C997", "$type": "color" },
+    "white": { "$value": "#FFFFFF", "$type": "color" },
+    "secondaryText": { "$value": "#AEBACB", "$type": "color" },
+    "error": { "$value": "#F06464", "$type": "color" },
+    "surface": { "$value": "#172334", "$type": "color" },
+    "surfaceRaised": { "$value": "#1B293A", "$type": "color" }
+  },
+  "fontFamily": {
+    "base": { "$value": "Inter, system-ui, sans-serif", "$type": "fontFamily" }
+  },
+  "fontWeight": {
+    "regular": { "$value": 400, "$type": "fontWeight" },
+    "semibold": { "$value": 600, "$type": "fontWeight" },
+    "bold": { "$value": 700, "$type": "fontWeight" }
+  },
+  "radius": {
+    "small": { "$value": "8px", "$type": "dimension" },
+    "medium": { "$value": "12px", "$type": "dimension" },
+    "large": { "$value": "17px", "$type": "dimension" },
+    "pill": { "$value": "999px", "$type": "dimension" }
+  },
+  "spacing": {
+    "1": { "$value": "4px", "$type": "dimension" },
+    "2": { "$value": "8px", "$type": "dimension" },
+    "3": { "$value": "12px", "$type": "dimension" },
+    "4": { "$value": "16px", "$type": "dimension" },
+    "5": { "$value": "20px", "$type": "dimension" },
+    "6": { "$value": "24px", "$type": "dimension" },
+    "8": { "$value": "32px", "$type": "dimension" }
+  }
+}
